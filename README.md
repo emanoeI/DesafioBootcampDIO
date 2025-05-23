@@ -1,14 +1,28 @@
-Projeto Estacionamento - Desafio Bootcamp DIO WEX - End to End Engineering
-Este projeto foi desenvolvido como desafio do Bootcamp DIO WEX - End to End Engineering, focado em C#.
+<h1>🚗 Projeto Estacionamento - Desafio Bootcamp DIO WEX - End to End Engineering</h1>
 
-Trata-se de um sistema simples para gerenciar um estacionamento, onde é possível:
+<p>Este projeto foi desenvolvido como desafio do Bootcamp <strong>DIO WEX - End to End Engineering</strong>, com foco na linguagem <strong>C#</strong>. 💻</p>
 
-Adicionar veículos
+<h2>📋 Sobre o projeto</h2>
 
-Remover veículos e calcular o valor devido pelo tempo estacionado
+<p>Trata-se de um sistema simples para gerenciar um estacionamento, permitindo as seguintes operações:</p>
 
-Listar todos os veículos estacionados
+<ul>
+  <li>➕ Adicionar veículos</li>
+  <li>➖ Remover veículos e calcular o valor devido pelo tempo estacionado ⏰</li>
+  <li>📋 Listar todos os veículos estacionados</li>
+</ul>
 
-O objetivo do desafio é aplicar conhecimentos de lógica de programação, orientação a objetos e boas práticas de desenvolvimento em C#, além de reforçar conceitos de entrada e saída via console.
+<h2>🎯 Objetivo</h2>
 
-Este projeto também faz parte do meu portfólio, demonstrando habilidades técnicas adquiridas durante o bootcamp, bem como o uso do Git e GitHub para versionamento de código.
+<p>O desafio tem como objetivo aplicar conhecimentos de:</p>
+
+<ul>
+  <li>🧠 Lógica de programação</li>
+  <li>📚 Orientação a objetos (POO)</li>
+  <li>✅ Boas práticas de desenvolvimento em C#</li>
+  <li>🖥️ Entrada e saída via console</li>
+</ul>
+
+<h2>🔚 Considerações finais</h2>
+
+<p>Este projeto faz parte do meu portfólio, demonstrando as habilidades técnicas adquiridas durante o bootcamp, além do uso do Git e GitHub para versionamento e controle do código. 🚀</p>
